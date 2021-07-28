@@ -1,7 +1,7 @@
 const env = process.env;
 
 const config = {
-  db: { /* db used in this project was retrived from localhost using xxamp rea the redme file for  important setup tips */
+  db: { /* db used in this project was retrived from localhost using xxamp read the readme file for  important setup tips */
     host: env.DB_HOST || 'Host-Name',
     user: env.DB_USER || 'User-Name',
     password: env.DB_PASSWORD || 'Password',
