@@ -1,7 +1,7 @@
 const env = process.env;
 
 const config = {
-  db: { /* don't expose password or any sensitive info, done only for demo */
+  db: { /* db used in this project was retrived from localhost using xxamp rea the redme file for  important setup tips */
     host: env.DB_HOST || 'Host-Name',
     user: env.DB_USER || 'User-Name',
     password: env.DB_PASSWORD || 'Password',
