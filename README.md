@@ -1,7 +1,9 @@
 # nodejs-mysql-api-sample
 a sample rest api made with node js, express js and mysql
 
-this project was built for learning pruposes and in the base of this tutorial
+simple the project represent asimple api with a simple GET method reteriving info about programming languages from a local database
+
+this project was built for learning pruposes and the base of it this tutorial
 https://blog.logrocket.com/node-js-express-js-mysql-rest-api-example/
 use it as a Refrence in case of any mistakes i made in my own project
 
