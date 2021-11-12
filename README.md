@@ -1,5 +1,5 @@
-
 # nodejs-mysql-api-sample
+<img width="1261" alt="Screen Shot 2021-07-28 at 13 53 57" src="https://user-images.githubusercontent.com/66588352/141428835-833078e3-1047-4770-b7c8-212a5a82a490.png">
 a sample rest api made with node js, express js and mysql
 
 simple the project represent asimple api with a simple GET method reteriving info about programming languages from a local database
@@ -15,4 +15,4 @@ xxamp setup with nodejs tips
 you will find a sql file to setup your database easily in the main folder of the repositry
 and other version in json format
 
-<img width="1261" alt="Screen Shot 2021-07-28 at 13 53 57" src="https://user-images.githubusercontent.com/66588352/127317966-d3dda961-7891-439f-80b3-389598d6d7bc.png">
+
